@@ -322,6 +322,7 @@ footer i:hover {
   bottom: 5px;
   z-index: 1;
   margin-right: -19px;
+  transition: all 0.6s;
 }
 .btn-group-fab.active .btn-sub:nth-child(2) {
   bottom: 60px;
