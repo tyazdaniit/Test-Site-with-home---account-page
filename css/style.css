@@ -219,6 +219,50 @@ blockquote i {
 /* End Teachers  */
 
 /* Author */
+#authers .jumbotron {
+  padding: 1rem 0 3rem;
+}
+.auther .card {
+  border-radius: 0;
+  box-shadow: 2px 2px 5px #1ebba3;
+  margin: 6rem 0;
+}
+.auther .card:hover {
+  background-color: #1a7769;
+}
+.auther .card:hover i,
+.auther .card:hover h3,
+.auther .card:hover p {
+  color: #fff;
+}
+.card-body h3 {
+  font-size: "yekan";
+  font-size: 1.5rem;
+  color: #000;
+  font-weight: 800;
+}
+.card-body h5 {
+  font-family: "nazanin";
+  font-size: 1rem;
+  color: #000;
+  font-weight: bolder;
+}
+.card-body img {
+  margin-top: -6rem;
+}
+.card-body p {
+  font-family: "nekan";
+  font-size: 0.9rem;
+  text-align: justify;
+}
+
+.card-body i {
+  color: #000;
+  font-size: 1.8rem;
+}
+.card-body i:hover {
+  color: #000 !important;
+}
 /* End Author */
 
 /* Footer */
