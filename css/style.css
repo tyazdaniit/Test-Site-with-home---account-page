@@ -225,7 +225,7 @@ blockquote i {
 .auther .card {
   border-radius: 0;
   box-shadow: 2px 2px 5px #1ebba3;
-  margin: 6rem 0;
+  margin: 5rem 0;
 }
 .auther .card:hover {
   background-color: #1a7769;
@@ -266,6 +266,35 @@ blockquote i {
 /* End Author */
 
 /* Footer */
+footer {
+  padding: 2rem 0;
+  background-color: #343a40;
+  color: #fff;
+}
+footer img {
+  height: 3rem;
+  margin: 2rem;
+}
+footer p {
+  font-family: "yekan";
+}
+footer i {
+  font-size: 1.8rem;
+  margin: 1.2rem 0.5rem;
+  color: #fff;
+}
+footer i:hover {
+  color: #1ebba3;
+}
+
+.footer-hr {
+  width: 100%;;
+  margin-top: 2rem;
+  border-top: 0.2rem solid #1ebba3;
+}
+.my-name-footer {
+  color: #1ebba3;
+}
 /* End Footer */
 
 /* Fab Btn */
